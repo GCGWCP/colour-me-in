@@ -89,15 +89,19 @@
 * white=107
 
 ~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~
+
 _@^#^@_@^#^@_@^#^@_@^#^@_@^#^@_@^#^@_@^#^@_@^#^@_
+
 ~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~
 
 ### 256 Colors
 
-![Gangster Computer God: Make it pretty for the people.](https://raw.githubusercontent.com/gcgworld/colour_me_in/master/assets/img/tv_color_bars_2.png)
+![Gangster Computer God: Why can't it be beautiful? Make it pretty for the people.](https://raw.githubusercontent.com/gcgworld/colour_me_in/master/assets/img/tv_color_bars_2.png)
 
 ~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~
+
 _@^#^@_@^#^@_@^#^@_@^#^@_@^#^@_@^#^@_@^#^@_@^#^@_
+
 ~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~
 
 *Something new and nothing to do*
@@ -175,13 +179,21 @@ _@^#^@_@^#^@_@^#^@_@^#^@_@^#^@_@^#^@_@^#^@_@^#^@_
 
 
 ~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~
+
 _@^#^@_@^#^@_@^#^@_@^#^@_@^#^@_@^#^@_@^#^@_@^#^@_
+
 ~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~
+
 **Lyrics for "Colour Me In" by: Broadcast
 written by: Patricia Ann Keenan, James Cargill**
+
 ~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~
+
 _@^#^@_@^#^@_@^#^@_@^#^@_@^#^@_@^#^@_@^#^@_@^#^@_
+
 ~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~
+
 **Most fancy terminal tricks gleaned from:
 Fabian LOISON - www.flogisoft.com**
+
 ~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~-*-~
