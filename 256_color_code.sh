@@ -11,25 +11,28 @@ function show_all_colors() {
 	done
 }
 
+
 function select_fg_color() {
 	echo -e "Select a color: "; read color
 	return "\e[38;$color;m"
 }
+
 
 function select_bg_color() {
 	echo -e "Select a color: "; read color
 	return "\e[48;$color;m"
 }
 
+
 function main() {
 	show_all_colors
-	if [[ $1 == 'fg' ]]; then
+	if [[ $1 == '--fg' ]]; then
 		fgc=select_fg_color
 		echo "$fgc" 
-	elif [[ $1 == 'bg' ]]; then
+	elif [[ $1 == '--bg' ]]; then
 		bgc=select_bg_color
 		echo "$bgc"
-	elif [[ $1 == 'fgbg' ]]; then
+	elif [[ $1 == '--fgbg' ]]; then
 		fgc=select_fg_color
 		bgc=select_fg_color
 		echo "$fgc"
